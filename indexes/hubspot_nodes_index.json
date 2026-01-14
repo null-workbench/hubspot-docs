@@ -6,5 +6,9 @@
   "crm_emails_api": {
     "file": "docs/api/crm/emails.md",
     "keywords": ["email", "emails", "crm email", "email object"]
+  },
+  "test_lookup": {
+  "file": "docs/api/reference/test_lookup.md",
+  "keywords": ["test", "lookup", "index verification"]
   }
 }
