@@ -1,0 +1,10 @@
+{
+  "conversations_api": {
+    "file": "docs/api/conversations/conversations_api.md",
+    "keywords": ["conversation", "conversations", "inbox", "threads", "messages"]
+  },
+  "crm_emails_api": {
+    "file": "docs/api/crm/emails.md",
+    "keywords": ["email", "emails", "crm email", "email object"]
+  }
+}
